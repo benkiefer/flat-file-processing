@@ -1,6 +1,7 @@
 **Stories**
+----------------------------------
 
-1. Given a list of orders, when I run the report, I see a line item for each order item from an order. The format is listed here.
+1. Given a list of orders, when I run the report, I see a line item for each order item from an order. The format is listed below.
 2. Given a list of orders containing both convenience fees and order items, when I run the order item report, I only see order items. When I run the convenience fee report, I only see convenience fee items.
 
 **File Format**
